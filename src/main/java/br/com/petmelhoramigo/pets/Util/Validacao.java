@@ -1,4 +1,4 @@
-package br.com.petmelhoramigo.pets.Util;
+package br.com.petmelhoramigo.pets.util;
 
 import java.util.List;
 
